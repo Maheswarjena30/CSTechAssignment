@@ -1,0 +1,93 @@
+[
+{
+        "SNo": 1,
+        "Name": "Poorna",
+        "Gender": "Female",
+        "Email": "poorna@gmail.com",
+        "Number":9102365487,
+        "Course": "MERN",
+        "Rating": "p*"
+    },
+    {
+        "SNo": 2,
+        "Name": "Chandu",
+        "Gender": "Female",
+        "Email": "chandu@gmail.com",
+        "Number":8597412630,
+        "Course": "SQL",
+        "Rating": "p1"
+    },
+    {
+        "SNo": 3,
+        "Name": "Pardhu",
+        "Gender": "Male",
+        "Email": "pardhu@gmail.com",
+        "Number":8965741320,
+        "Course": "PYTHON",
+        "Rating": "p1"
+    },
+    {
+        "SNo": 4,
+        "Name": "Gayathri",
+        "Gender": "Female",
+        "Email": "gayathri@gmail.com",
+        "Number":8547693210,
+        "Course": "JAVA",
+        "Rating": "p1"
+    },
+    {
+        "SNo": 5,
+        "Name": "Raju",
+        "Gender": "Male",
+        "Email": "raju@gmail.com",
+        "Number":9685214703,
+        "Course": "MERN",
+        "Rating": "p2"
+    },
+    {
+        "SNo": 6,
+        "Name": "Suji",
+        "Gender": "Female",
+        "Email": "suji@gmail.com",
+        "Number":9632015478,
+        "Course": "JAVA",
+        "Rating": "p1"
+    },
+
+    {
+        "SNo": 7,
+        "Name": "RamU",
+        "Gender": "Male",
+        "Email": "RAMU@gmail.com",
+        "Number":8546971230,
+        "Course": "PYTHON",
+        "Rating": "p2"
+    },
+    {
+        "SNo": 8,
+        "Name": "Sai",
+        "Gender": "Male",
+        "Email": "sai@gmail.com",
+        "Number":8745963210,
+        "Course": "MERN",
+        "Rating": "p1"
+    },
+    {
+        "SNo": 9,
+        "Name": "Sruthi",
+        "Gender": "Female",
+        "Email": "sruthi@gmail.com",
+        "Number":9754862103,
+        "Course": "SQL",
+        "Rating": "p*"
+    },
+    {
+        "SNo": 10,
+        "Name": "Arjun",
+        "Gender": "Male",
+        "Email": "arjun@gmail.com",
+        "Number":9874653210,
+        "Course": "MERN",
+        "Rating": "p2"
+    }  
+]
